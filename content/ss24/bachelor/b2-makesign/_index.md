@@ -8,7 +8,7 @@ abstract = ""
 
 # Names are optional, team size is sufficient
 
-team = ["Member 1", "Member 2","Member 3", "Member 4","Member 5"]
+team = ["Rudolfs Spridis", "Nemo Ziemer","Hyun Bin Jeoung", "Airon Jasinski","Niklas Aporius"]
 supervisor = "Prof. Dr. Barne Kleinen"
 draft = false
 
@@ -17,14 +17,14 @@ source_link = ""
 
 +++
 
-Der Maker Space der HTW gibt Studierenden die Möglichkeit Fräsen, 3D-Drucker, Lasercutter und GPU Laptops nutzen zu können.
-Durch das IdiA Booking System, welches per https://idia-booking.f4.htw-berlin.de erreichbar ist, können sich Studierende diese Geräte kostenfrei mieten, für ihre kreativen Ideen nutzen und somit ohne Ausgaben an ihren Projekten arbeiten. 
-IDiA (Ideas in Action) ist hierbei ein Projekt der Ideen- und Gründungsförderung der HTW Berlin (HTW Startup). IDiA gibt den Themen Innovationen, Experimentieren, Prototyping, Neugier und Kreativität Raum. Teil des Projektes sind der Maker Space und der bald eröffnende Coworking Space.
-In beiden Spaces sollen zwei Monitore mit Raspberry Pi angesteuert und als Digital Signage eingesetzt werden, um möglichst viele Studierende über die Buchungen der Geräte und zusätzlich auch über IdiA's Angebote zu informieren.
-Hierbei werden also Informationen des IDiA Booking Systems auf dem Bildschirm dargestellt, damit die Studierenden Informationen über die Auslastung der Geräte kriegen und zusätzlich die neusten Angebote des IDiA mitbekommen.
+Plakate gab es schon vor Jahrzehnten und sie werden heutzutage immer noch verwendet. Jedoch findet man sie meistens nur draußen an großen Plakatwänden oder Litfaßsäulen, welche vielen Universitäten nicht zur Verfügung stehen. Daher hängen in den Universitäten kleine Plakate, die kaum bis gar nicht wahrgenommen werden. Unsere Idee ist es Digital Signages zu verwenden und Bildschirme somit in den Gebäuden anzubringen, um so eine simple und effiziente Möglichkeit zu bieten Webpage Poster oder Videos zur Schau zu stellen.
+Hierbei nutzen wir Open Source Technologien und günstige Raspberry Pi(Mini Computer), die in Verbindung mit alten Monitoren, die nicht mehr verwendet werden, eine Möglichkeit für ein Signage Netzwerk bieten und gleichzeitig alten Monitoren wieder eine Funktion zu geben. Damit geben wir Studierenden und Lehrkräften eine perfekte Möglichkeit, Werbung für ihre Events oder Projekte innerhalb der Universität darzustellen und somit mehr Aufmerksamkeit für diese zu erreichen.
+Durch die schnelle Aktualisierungsmöglichkeit der Inhalte, ersparen sich die nutzenden Personen viel Zeit und können zum Beispiel so mehr Zeit in die Poster selbst investieren.
+Zudem haben wir ein System zu graphischen Darstellung des Buchungssystems für die Maschinen des Maker Space implementiert, welches ermöglicht die Auslastung und die Zeit der Buchungen für diese in Echtzeit sehen zu können. Währenddessen können auch Webpageposter abgespielt werden und somit mehr Aufmerksamkeit bekommen, da der Monitor zum Beispiel während der Wartezeit auf ein Gerät, wahrscheinlich immer wieder betrachtet wird.
+Mögliche Erweiterungen für diese Idee wären Anzeigen in Bus oder Tram, da hier durch die Anzeige für die nächsten Bahnhöfe dasselbe Prinzip gilt. Die U-Bahn in Berlin nutzt diese Technologie schon und zeigt Nachrichten oder Werbung für verschiedene Ereignisse oder Events an.
 
 {{<section title="Our Goal">}}
-Das IDiA-Team soll die Möglichkeit haben, möglichst einfach Bilder und kurze Videos hochzuladen, die dann auf den Monitoren angezeigt werden. Darüber hinaus soll auf dem Monitor im Maker Space auch die Auslastung der Maschinen aus unserem Buchungssystem abgerufen und angezeigt werden. 
+Wir hoffen damit mehr Studierende dazu zu motivieren Events oder Projekte zu promoten und Studierende auf Angebote auf dem Campus aufmerksam zu machen und diese damit zu ermutigen an mehr Projekten und Events der Universität teilzunehmen.
 
 {{</section>}}
 
