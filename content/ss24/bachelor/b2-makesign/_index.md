@@ -6,8 +6,6 @@ subtitle = "Digital Signage für den Makerspace und das Projekt IDiA"
 claim = ""
 abstract = ""
 
-# Names are optional, team size is sufficient
-
 team = ["Rudolfs Spridis", "Nemo Ziemer","Hyun Bin Jeoung", "Airon Jasinski","Niklas Aporius"]
 supervisor = "Prof. Dr. Barne Kleinen"
 draft = false
