@@ -15,12 +15,12 @@ source_link = ""
 
 +++
 
-Plakate in den Gebäuden der Universität sind meist veraltet, da es sehr mühsam und zeitaufwendig ist neue aufzuhängen und die alten zu entsorgen. Unsere Idee ist es Digital Signages zu verwenden und Bildschirme somit in den Gebäuden anzubringen, um so eine simple und effiziente Möglichkeit zu bieten Webpage Poster oder Videos zur Schau zu stellen.
-Hierbei nutzen wir Open Source Technologien und günstige Raspberry Pi(Mini Computer), die in Verbindung mit alten Monitoren, die nicht mehr verwendet werden, eine Möglichkeit für ein Signage Netzwerk bieten und gleichzeitig alten Monitoren wieder eine Funktion zu geben. Damit geben wir Studierenden und Lehrkräften eine perfekte Möglichkeit, Werbung für ihre Events oder Projekte innerhalb der Universität darzustellen und somit mehr Aufmerksamkeit für diese zu erreichen.
-Durch die schnelle Aktualisierungsmöglichkeit der Inhalte, ersparen sich die nutzenden Personen viel Zeit und können zum Beispiel so mehr Zeit in die Poster selbst investieren.
-Zudem haben wir ein System zu graphischen Darstellung des Buchungssystems für die Maschinen des Maker Space implementiert, welches ermöglicht die Auslastung und die Zeit der Buchungen für diese in Echtzeit sehen zu können. Währenddessen können auch Webpageposter abgespielt werden und somit mehr Aufmerksamkeit bekommen, da der Monitor zum Beispiel während der Wartezeit auf ein Gerät, wahrscheinlich immer wieder betrachtet wird.
-Eine mögliche Erweiterung für diese Idee wären Monitore in den Universitätsgebäuden, die mit der API der BVG arbeiten und damit die Ankunftszeiten der Straßenbahn anzeigen können.
+Plakate in den Gebäuden der Universität sind meist veraltet, da es sehr mühsam und zeitaufwendig ist, neue aufzuhängen und die alten zu entsorgen. Unsere Idee ist es, Digital Signage zu verwenden, um alten Bildschirmen als Anzeigetafeln ein neues Leben auf den Campen zu ermöglichen, um so eine einfache und effiziente Möglichkeit zu bieten Webpage-Poster oder Videos zur Schau zu stellen.
+Hierfür entwickeln wir Open Source Technologien weiter und nutzen günstige Raspberry Pi(Mini Computer), um in Verbindung mit alten Monitoren eine Möglichkeit für ein Signage Netzwerk bieten, welches alten Monitoren wieder eine Funktion gibt und jeglichen Organisatoren an dem Campus die Vermarktung von Veranstaltungen erleichtert. 
+Zudem haben wir in Zusammenarbeit mit dem Makerspace und IDEA ein System zur graphischen Darstellung des Buchungssystems für die Maschinen des Makerspace implementiert, welches ermöglicht, die Auslastung und die Zeit der Buchungen für diese in Echtzeit durch ein Digital Signage Board Digital anzeigen zu lassen. 
 
+Die Technologie bietet der Uni auch für die Zukunft zahlreiche Erweiterungsmöglichkeiten. Eine mögliche Anwendung wäre zum Beispiel, in den Gebäuden auf den beiden Campen alte Monitore zu nutzen, um die Abfahrt und Ankunftszeiten der Tram darzustellen. Durch die endlosen Möglichkeiten der digitalen Darstellung werden die Grenzen der Anwendung lediglich durch die Grenzen der Kreativität gesetzt. 
+ 
 {{<section title="Our Goal">}}
 Wir hoffen damit mehr Studierende dazu zu motivieren Events oder Projekte zu promoten und Studierende auf Angebote auf dem Campus aufmerksam zu machen und diese damit zu ermutigen an mehr Projekten und Events der Universität teilzunehmen.
 {{</section>}}
